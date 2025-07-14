@@ -199,8 +199,8 @@ export default function Portfolio() {
                   variant="outline"
                   className="border-purple-300 text-purple-700 hover:bg-purple-50 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 bg-transparent"
                 >
-                  <a href="https://drive.google.com/file/d/1mdUwkWNmlo3X114jNeiIRV7kUQlJ3_HP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                    View Resume
+                  <a href="https://drive.google.com/uc?export=download&id=1mdUwkWNmlo3X114jNeiIRV7kUQlJ3_HP" target="_blank" rel="noopener noreferrer" download="Soumyadip Sarkar Resume.pdf">
+                    Download Resume
                   </a>
                 </Button>
             </div>
@@ -526,11 +526,11 @@ export default function Portfolio() {
               size="lg"
               className="border-white text-white hover:bg-white hover:text-purple-600 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 bg-transparent"
             >
-              <a href="https://drive.google.com/file/d/1mdUwkWNmlo3X114jNeiIRV7kUQlJ3_HP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/uc?export=download&id=1mdUwkWNmlo3X114jNeiIRV7kUQlJ3_HP" target="_blank" rel="noopener noreferrer" download="Soumyadip_Sarkar_Resume.pdf">
                 <svg className="mr-2 h-4 w-4" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M18,20H6V4H13V9H18V20Z" />
                 </svg>
-                View Resume
+                Download Resume
               </a>
             </Button>
             <Button
